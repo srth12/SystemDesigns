@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.vendingmachine;
 
 public enum Product {
     COLA(50),

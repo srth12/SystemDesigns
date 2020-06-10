@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.vendingmachine;
 
 import java.util.HashMap;
 import java.util.Map;

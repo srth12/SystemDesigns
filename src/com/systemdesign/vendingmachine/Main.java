@@ -1,4 +1,4 @@
-package com.systemdesign;
+package com.systemdesign.vendingmachine;
 
 public class Main {
 
