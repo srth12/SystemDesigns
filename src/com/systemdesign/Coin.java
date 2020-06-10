@@ -13,5 +13,9 @@ public enum Coin {
     public int getDenomination(){
         return denomination;
     }
+
+    public int compare(Coin coin){
+        return Integer.compare(this.getDenomination(), coin.getDenomination());
+    }
 }
 
